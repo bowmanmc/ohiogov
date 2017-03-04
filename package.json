@@ -34,6 +34,7 @@
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
     "react-faux-dom": "^3.0.0",
+    "react-map-gl": "^2.0.2",
     "react-router": "2.7.0",
     "sass-lint": "^1.10.2",
     "whatwg-fetch": "^1.0.0"
