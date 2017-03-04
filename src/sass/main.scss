@@ -2,8 +2,10 @@
 @import 'normalize.css/normalize';
 @import 'bourbon/bourbon';
 @import 'neat/neat';
-
+@import 'leaflet/dist/leaflet';
 
 @import 'defaults/colors';
 @import 'defaults/tags';
 @import 'defaults/typography';
+
+@import 'components/homepage';
